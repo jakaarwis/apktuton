@@ -1,5 +1,5 @@
 {
   "version": "1.7.0",
   "url": "https://github.com/jakaarwis/apktuton/releases/download/apk_tutonv1.6.0/app-release.apk",
-  "changelog": "Perbaikan bug dan peningkatan performa pada fitur kirim lokasi."
+  "changelog": "Perbaikan tampilan maps dan tambahkan add route pada menu maps pengguna sekitar"
 }
